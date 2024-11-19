@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../../Basic-CSS-Lvl1_3"
+		},
+		{
+			"path": "../../../Selectors-Lvl-1_2"
+		},
+		{
+			"path": "../../../Display-LVL-2_1"
+		},
+		{
+			"path": "../../../Box-Modell"
+		},
+		{
+			"path": "../../../Box-Model-2_1"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Bonus-BoxModel"
+	}
+}

@@ -1,0 +1,77 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+section {
+    width: 100%;
+}
+
+h1 {
+    background-image: url(../img/Gebirge.png);
+    background-size: cover;
+    width: 100%;
+    text-align: center;
+    padding: 20%;
+    color: #FFFFFF;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+h3 {
+    color: grey;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px;
+    margin-left: 60px;
+}
+
+/* #firstpic {
+    display: flex;
+    width: 100%;
+} */
+
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+article {
+    text-align: center;
+    margin: 5px 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#smallMount {
+    width: 350px;
+    margin: 0 20px;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 7px;
+}
+
+p span {
+    color: red;
+}
+
+.available {
+    color: rgb(16, 194, 134);
+}
+
+footer {
+    border-top: 2px solid rgb(201, 188, 188);
+}
+
+#dates {
+    margin-left: 170px;
+    margin-bottom: 30px;
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+}
